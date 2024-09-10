@@ -2,14 +2,14 @@
 title: ModKeys
 email: cbeltran@isise.edu.pe
 description: >- # this means to ignore newlines until "baseurl:"
-  Somos una tienda especializada en teclados mecánicos para los verdaderos entusiastas. 
-  Nos enfocamos en ofrecer productos de alta calidad, diseñados para aquellos que buscan la máxima precisión, 
+  Tienda especializada en teclados mecánicos para los verdaderos entusiastas. 
+  Enfocada en ofrecer productos de alta calidad, diseñados para aquellos que buscan la máxima precisión, 
   confort y personalización en cada pulsación. Explora nuestra selección y encuentra el teclado perfecto para 
   llevar tu experiencia de escritura al siguiente nivel. ¡Descubre el arte de teclear con nosotros!
 baseurl: "/mySite" # the subpath of your site, e.g. /blog
 url: "https://cbeltran-git.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: cbeltran
+github_username:  cbeltran-git
 
 # Build settings
 theme: minima
